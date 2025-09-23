@@ -1,7 +1,7 @@
 # Live-Weather-Report-Analysis
 ### Provides insights into weather patterns across Indian regions, including temperature, wind speed, and air quality. This project collects live daily weather data of Indian States for seven days forecast data.
 ## Getting the live data
-## This project utilizes data from tthe Power BI for analysis and visualization of weather data current and 7 days forecast data.
+## This project utilizes data from the Power BI for analysis and visualization of weather data current and 7 days forecast data.
 ### The live data is obtained from weather api website
 ### * The Api key is generated
 ### * Generated Api is then pasted in the Api Explorer
